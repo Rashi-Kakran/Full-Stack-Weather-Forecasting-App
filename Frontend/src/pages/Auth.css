@@ -1,0 +1,16 @@
+.auth-bg {
+    background: linear-gradient(135deg, #667eea, #764ba2);
+}
+
+.auth-card{
+    border-radius: 15px;
+    background: white;
+}
+
+.auth-title{
+    color: #4a4a4a;
+}
+
+.auth-btn:hover{
+    opacity: 0.9;
+}
